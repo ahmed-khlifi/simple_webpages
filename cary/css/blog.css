@@ -1,0 +1,29 @@
+.blog-header {
+    height: 70%;
+    color: #ffffff;
+}
+
+
+
+
+/* TODO responsive */
+
+.card {
+    transition: all .2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    -webkit-box-shadow: -2px 10px 16px -1px rgba(0, 0, 0, 0.42);
+    -moz-box-shadow: -2px 10px 16px -1px rgba(0, 0, 0, 0.42);
+    box-shadow: -2px 10px 16px -1px rgba(0, 0, 0, 0.42);
+}
+
+.card-body {
+    color: #0F2569;
+}
+
+.contact {
+    background-color: #ffffff;
+    color: #0F2569;
+}

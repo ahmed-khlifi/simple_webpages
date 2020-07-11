@@ -1,0 +1,8 @@
+.card {
+    -webkit-box-shadow: 7px 16px 37px 5px rgba(0, 0, 0, 0.49);
+    box-shadow: 7px 16px 37px 5px rgba(0, 0, 0, 0.49);
+}
+
+#mainNav {
+    background-color: #ffffff;
+}

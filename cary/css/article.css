@@ -1,0 +1,17 @@
+.blog-header {
+    height: auto;
+    color: #ffffff;
+}
+
+.paragrahpe {
+    line-height: 2rem;
+}
+
+.btn-recom :hover {
+    color: #0F2569;
+}
+
+.more {
+    background-color: red;
+    width: fit-content;
+}
